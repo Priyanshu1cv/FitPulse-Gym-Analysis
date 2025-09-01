@@ -71,6 +71,10 @@ FitPulse comes with **multiple color themes**, so users can switch as per prefer
 
 ## 📸 Dashboard Preview
 
+<img width="1294" height="718" alt="Image" src="https://github.com/user-attachments/assets/1a5f5eb8-a544-4a5b-9b63-599661a3d139" />
+<img width="1283" height="731" alt="Image" src="https://github.com/user-attachments/assets/662c2135-8060-4e3a-8ef0-e72a04edb23d" />
+<img width="1297" height="728" alt="Image" src="https://github.com/user-attachments/assets/ac14e60f-c8ca-4ab6-870e-1cd75e645b3d" />
+<img width="1298" height="733" alt="Image" src="https://github.com/user-attachments/assets/902800b3-f4b1-4bc6-9547-5079204d003c" />
 
 ---
 
