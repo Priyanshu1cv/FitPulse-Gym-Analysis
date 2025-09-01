@@ -42,9 +42,7 @@ FitPulse comes with **multiple color themes**, so users can switch as per prefer
 - **Gender**:  
   - Male → `#4A90E2` (Blue)  
   - Female → `#FF69B4` (Hot Pink)  
-
-- **New Theme Color:**  
-  - Turquoise → `#40E0D0`  
+  
 
 ---
 
